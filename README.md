@@ -8,7 +8,7 @@ predictions which took into account day of the week and unemployment data from t
 
 ## Accessing the analysis
 
-You can access the analysis via the Jupyter Notebook file included in this repo [stock_market_prediction.ipynb](https://github.com/njpowers7915/stock_market_predictions/blob/master/stock_market_prediction.ipynb).
+You can access the analysis via the Jupyter Notebook file included in this repo --> [stock_market_prediction.ipynb](https://github.com/njpowers7915/stock_market_predictions/blob/master/stock_market_prediction.ipynb).
 
 ## Authors
 
